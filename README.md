@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://dev.to/mariopolonia0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mariopolonia0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mario-pe%c3%b1a-polonia-415b82214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mario-pe%c3%b1a-polonia-415b82214/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@mariopenapolonia8671/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mariopenapolonia8671/videos" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mariopenapolonia8671/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mariopenapolonia8671/videos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
