@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 😄, I'm Mario Peña Polonia</h1>
 <h3 align="center">Software Engineering</h3>
 
-- 🔭 I’m currently working on [RentaApp](https://github.com/Mariopolonia0/RentaApp/blob/master/README.md)
-
-- 🌱 I’m currently learning **Kotlin,Spring Boot**
-
 - 👨‍💻 All of my projects are available at [https://mariopolonia0.github.io/portafolio.github.io/](https://mariopolonia0.github.io/portafolio.github.io/)
 
 - 💬 Ask me about **Android, Kotlin, Java, Data Structure, Flutter**
