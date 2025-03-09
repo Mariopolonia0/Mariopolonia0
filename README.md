@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 😄, I'm Mario Peña Polonia</h1>
 <h3 align="center">Software Engineering</h3>
 
+- 👨‍💻 Project working now [https://mariopolonia0.github.io/struct_of_data/javaScriptBasico/control_tareas_web/index.html/](https://mariopolonia0.github.io/portafolio.github.io/)
+
 - 👨‍💻 All of my projects are available at [https://mariopolonia0.github.io/portafolio.github.io/](https://mariopolonia0.github.io/portafolio.github.io/)
 
 - 💬 Ask me about **Android, Kotlin, Java, Data Structure, Flutter**
